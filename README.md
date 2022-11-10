@@ -1,0 +1,1 @@
+# This project is just a simple app built with html and css
